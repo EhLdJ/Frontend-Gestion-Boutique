@@ -1,0 +1,3 @@
+[submodule "Backend-Gestion-Boutique"]
+	path = Backend-Gestion-Boutique
+	url = https://github.com/EhLdJ/Backend-Gestion-Boutique.git
